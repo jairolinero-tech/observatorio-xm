@@ -86,62 +86,62 @@
   },
   "comercializadores": [
     {
-      "agente": "VALLE DEL CAUCA",
-      "region": "Mercado Regulado",
+      "agente": "Celsia",
+      "region": "Occidente (Valle del Cauca)",
       "gwh": 11.6,
       "pct": 21.0
     },
     {
-      "agente": "ANTIOQUIA",
-      "region": "Mercado Regulado",
+      "agente": "EPM",
+      "region": "Occidente (Antioquia)",
       "gwh": 10.4,
       "pct": 18.8
     },
     {
-      "agente": "CARIBE SOL",
-      "region": "Mercado Regulado",
+      "agente": "Air-e",
+      "region": "Caribe (Caribe Norte)",
       "gwh": 8.1,
       "pct": 14.6
     },
     {
-      "agente": "CALDAS",
-      "region": "Mercado Regulado",
+      "agente": "CHEC (Eje Cafetero)",
+      "region": "Occidente (Eje Cafetero)",
       "gwh": 4.1,
       "pct": 7.4
     },
     {
-      "agente": "BOYACA",
-      "region": "Mercado Regulado",
+      "agente": "EBSA (Boyacá)",
+      "region": "Centro (Boyacá)",
       "gwh": 3.9,
       "pct": 7.1
     },
     {
-      "agente": "TOLIMA",
-      "region": "Mercado Regulado",
+      "agente": "Celsia Tolima",
+      "region": "Centro (Tolima)",
       "gwh": 3.5,
       "pct": 6.3
     },
     {
-      "agente": "CASANARE",
-      "region": "Mercado Regulado",
+      "agente": "Enerca (Casanare)",
+      "region": "Oriente (Casanare)",
       "gwh": 3.0,
       "pct": 5.4
     },
     {
-      "agente": "CARIBE MAR",
-      "region": "Mercado Regulado",
+      "agente": "Afinia",
+      "region": "Caribe (Caribe Sur)",
       "gwh": 2.7,
       "pct": 4.9
     },
     {
-      "agente": "CESAR",
-      "region": "Mercado Regulado",
+      "agente": "Afinia (Cesar)",
+      "region": "Caribe (Cesar / Afinia)",
       "gwh": 2.0,
       "pct": 3.6
     },
     {
-      "agente": "BOGOTA - CUNDINAMARCA",
-      "region": "Mercado Regulado",
+      "agente": "ENEL Colombia",
+      "region": "Centro (Bogotá / Cundinamarca)",
       "gwh": 1.3,
       "pct": 2.4
     }
