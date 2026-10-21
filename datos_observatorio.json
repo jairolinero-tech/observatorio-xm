@@ -1,0 +1,199 @@
+{
+  "fecha_consulta": "2026-10-17",
+  "volumen_embalses_pct": 0.8,
+  "demanda_total_gwh": 1348.4,
+  "reduccion_mw": 750.0,
+  "ahorro_acumulado_gwh": 18.5,
+  "curva_demanda": {
+    "horas": [
+      "00:00",
+      "01:00",
+      "02:00",
+      "03:00",
+      "04:00",
+      "05:00",
+      "06:00",
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00",
+      "20:00",
+      "21:00",
+      "22:00",
+      "23:00"
+    ],
+    "linea_base_mw": [
+      2028.0,
+      2080.0,
+      2132.0,
+      2107.0,
+      2074.0,
+      2081.0,
+      2110.0,
+      2305.0,
+      2704.0,
+      3138.0,
+      3215.0,
+      3354.0,
+      3356.0,
+      3160.0,
+      2852.0,
+      2418.0,
+      2076.0,
+      1916.0,
+      2657.0,
+      2728.0,
+      2828.0,
+      2051.0,
+      2053.0,
+      2061.0
+    ],
+    "demanda_real_mw": [
+      1978.0,
+      2030.0,
+      2082.0,
+      2057.0,
+      2024.0,
+      2031.0,
+      2060.0,
+      2255.0,
+      2654.0,
+      3088.0,
+      3165.0,
+      3304.0,
+      3306.0,
+      3110.0,
+      2802.0,
+      2368.0,
+      2026.0,
+      1866.0,
+      1907.0,
+      1978.0,
+      2078.0,
+      2001.0,
+      2003.0,
+      2011.0
+    ]
+  },
+  "comercializadores": [
+    {
+      "agente": "VALLE DEL CAUCA",
+      "region": "Mercado Regulado",
+      "gwh": 11.5,
+      "pct": 20.5
+    },
+    {
+      "agente": "ANTIOQUIA",
+      "region": "Mercado Regulado",
+      "gwh": 10.1,
+      "pct": 18.0
+    },
+    {
+      "agente": "CARIBE SOL",
+      "region": "Mercado Regulado",
+      "gwh": 8.2,
+      "pct": 14.6
+    },
+    {
+      "agente": "BOYACA",
+      "region": "Mercado Regulado",
+      "gwh": 4.0,
+      "pct": 7.1
+    },
+    {
+      "agente": "TOLIMA",
+      "region": "Mercado Regulado",
+      "gwh": 4.0,
+      "pct": 7.1
+    },
+    {
+      "agente": "CALDAS",
+      "region": "Mercado Regulado",
+      "gwh": 3.9,
+      "pct": 6.9
+    },
+    {
+      "agente": "CASANARE",
+      "region": "Mercado Regulado",
+      "gwh": 2.9,
+      "pct": 5.2
+    },
+    {
+      "agente": "BOGOTA - CUNDINAMARCA",
+      "region": "Mercado Regulado",
+      "gwh": 2.7,
+      "pct": 4.8
+    },
+    {
+      "agente": "CARIBE MAR",
+      "region": "Mercado Regulado",
+      "gwh": 2.5,
+      "pct": 4.4
+    },
+    {
+      "agente": "CESAR",
+      "region": "Mercado Regulado",
+      "gwh": 1.8,
+      "pct": 3.2
+    }
+  ],
+  "embalses_caudales": [
+    {
+      "embalse": "El Peñol (Guatapé)",
+      "rio": "Río Nare",
+      "departamento": "Antioquia",
+      "municipio": "Guatapé / El Peñol",
+      "volumen_pct": 82.9,
+      "caudal_m3s": 9.2
+    },
+    {
+      "embalse": "Guavio",
+      "rio": "Río Guavio",
+      "departamento": "Cundinamarca",
+      "municipio": "Ubalá / Gachalá",
+      "volumen_pct": 86.1,
+      "caudal_m3s": 44.0
+    },
+    {
+      "embalse": "Chivor (Esmeralda)",
+      "rio": "Río Batá",
+      "departamento": "Boyacá",
+      "municipio": "Macanal / Almeida",
+      "volumen_pct": 46.1,
+      "caudal_m3s": 35.4
+    },
+    {
+      "embalse": "Calima 1",
+      "rio": "Río Calima",
+      "departamento": "Valle del Cauca",
+      "municipio": "Calima El Darién",
+      "volumen_pct": 32.1,
+      "caudal_m3s": 5.0
+    },
+    {
+      "embalse": "Betania",
+      "rio": "Río Magdalena",
+      "departamento": "Huila",
+      "municipio": "Yaguará / Gigante",
+      "volumen_pct": 61.4,
+      "caudal_m3s": 125.0
+    },
+    {
+      "embalse": "Urrá 1",
+      "rio": "Río Sinú",
+      "departamento": "Córdoba",
+      "municipio": "Tierralta",
+      "volumen_pct": 48.9,
+      "caudal_m3s": 95.3
+    }
+  ]
+}
