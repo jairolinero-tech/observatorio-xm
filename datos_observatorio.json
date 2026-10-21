@@ -1,7 +1,7 @@
 {
   "fecha_consulta": "2026-10-18",
   "volumen_embalses_pct": 0.8,
-  "demanda_total_gwh": 1344.5,
+  "demanda_total_gwh": 56.0,
   "reduccion_mw": 750.0,
   "ahorro_acumulado_gwh": 18.5,
   "curva_demanda": {
