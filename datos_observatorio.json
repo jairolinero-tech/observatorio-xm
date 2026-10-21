@@ -1,7 +1,7 @@
 {
   "fecha_consulta": "2026-10-18",
   "volumen_embalses_pct": 0.8,
-  "demanda_total_gwh": 1329.0,
+  "demanda_total_gwh": 1344.5,
   "reduccion_mw": 750.0,
   "ahorro_acumulado_gwh": 18.5,
   "curva_demanda": {
@@ -32,118 +32,118 @@
       "23:00"
     ],
     "linea_base_mw": [
-      2008.0,
+      2033.0,
+      1925.0,
       1902.0,
-      1882.0,
-      1891.0,
-      1894.0,
-      1976.0,
-      2143.0,
-      2475.0,
-      2836.0,
-      3181.0,
-      3376.0,
-      3466.0,
-      3438.0,
-      3040.0,
-      2920.0,
-      2455.0,
-      2247.0,
-      1998.0,
-      2795.0,
-      2697.0,
-      2679.0,
-      1784.0,
-      1785.0,
-      1808.0
+      1910.0,
+      1910.0,
+      1983.0,
+      2147.0,
+      2480.0,
+      2838.0,
+      3186.0,
+      3386.0,
+      3497.0,
+      3473.0,
+      3074.0,
+      2954.0,
+      2487.0,
+      2279.0,
+      2029.0,
+      2858.0,
+      2766.0,
+      2743.0,
+      1810.0,
+      1814.0,
+      1835.0
     ],
     "demanda_real_mw": [
-      1958.0,
+      1983.0,
+      1875.0,
       1852.0,
-      1832.0,
-      1841.0,
-      1844.0,
-      1926.0,
-      2093.0,
-      2425.0,
-      2786.0,
-      3131.0,
-      3326.0,
-      3416.0,
-      3388.0,
-      2990.0,
-      2870.0,
-      2405.0,
-      2197.0,
-      1948.0,
-      2045.0,
-      1947.0,
-      1929.0,
-      1734.0,
-      1735.0,
-      1758.0
+      1860.0,
+      1860.0,
+      1933.0,
+      2097.0,
+      2430.0,
+      2788.0,
+      3136.0,
+      3336.0,
+      3447.0,
+      3423.0,
+      3024.0,
+      2904.0,
+      2437.0,
+      2229.0,
+      1979.0,
+      2108.0,
+      2016.0,
+      1993.0,
+      1760.0,
+      1764.0,
+      1785.0
     ]
   },
   "comercializadores": [
     {
+      "agente": "ENEL Colombia",
+      "region": "Centro (Bogotá / Cundinamarca)",
+      "gwh": 40.5,
+      "pct": 42.5
+    },
+    {
       "agente": "Celsia",
       "region": "Occidente (Valle del Cauca)",
       "gwh": 11.6,
-      "pct": 21.0
+      "pct": 12.2
     },
     {
       "agente": "EPM",
       "region": "Occidente (Antioquia)",
       "gwh": 10.4,
-      "pct": 18.8
+      "pct": 10.9
     },
     {
       "agente": "Air-e",
       "region": "Caribe (Caribe Norte)",
-      "gwh": 8.1,
-      "pct": 14.6
+      "gwh": 8.6,
+      "pct": 9.0
+    },
+    {
+      "agente": "Afinia",
+      "region": "Caribe (Caribe Sur)",
+      "gwh": 4.9,
+      "pct": 5.1
     },
     {
       "agente": "CHEC (Eje Cafetero)",
       "region": "Occidente (Eje Cafetero)",
       "gwh": 4.1,
-      "pct": 7.4
+      "pct": 4.3
     },
     {
       "agente": "EBSA (Boyacá)",
       "region": "Centro (Boyacá)",
       "gwh": 3.9,
-      "pct": 7.1
+      "pct": 4.1
     },
     {
       "agente": "Celsia Tolima",
       "region": "Centro (Tolima)",
       "gwh": 3.5,
-      "pct": 6.3
+      "pct": 3.7
     },
     {
       "agente": "Enerca (Casanare)",
       "region": "Oriente (Casanare)",
       "gwh": 3.0,
-      "pct": 5.4
+      "pct": 3.2
     },
     {
-      "agente": "Afinia",
-      "region": "Caribe (Caribe Sur)",
-      "gwh": 2.7,
-      "pct": 4.9
-    },
-    {
-      "agente": "Afinia (Cesar)",
-      "region": "Caribe (Cesar / Afinia)",
-      "gwh": 2.0,
-      "pct": 3.6
-    },
-    {
-      "agente": "ENEL Colombia",
-      "region": "Centro (Bogotá / Cundinamarca)",
-      "gwh": 1.3,
-      "pct": 2.4
+      "agente": "ESSA (Santander)",
+      "region": "Centro (Santanderes)",
+      "gwh": 1.6,
+      "pct": 1.7
     }
   ],
   "embalses_caudales": [
