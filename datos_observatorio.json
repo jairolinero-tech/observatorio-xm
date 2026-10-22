@@ -1,7 +1,7 @@
 {
-  "fecha_consulta": "2026-10-18",
+  "fecha_consulta": "2026-10-19",
   "volumen_embalses_pct": 0.8,
-  "demanda_total_gwh": 56.0,
+  "demanda_total_gwh": 56.4,
   "reduccion_mw": 750.0,
   "ahorro_acumulado_gwh": 18.5,
   "curva_demanda": {
@@ -32,56 +32,56 @@
       "23:00"
     ],
     "linea_base_mw": [
-      2033.0,
-      1925.0,
-      1902.0,
-      1910.0,
-      1910.0,
-      1983.0,
-      2147.0,
-      2480.0,
-      2838.0,
-      3186.0,
-      3386.0,
-      3497.0,
-      3473.0,
-      3074.0,
-      2954.0,
-      2487.0,
-      2279.0,
-      2029.0,
-      2858.0,
-      2766.0,
-      2743.0,
-      1810.0,
-      1814.0,
-      1835.0
+      1737.0,
+      1805.0,
+      1796.0,
+      1762.0,
+      1770.0,
+      1837.0,
+      2132.0,
+      2720.0,
+      3131.0,
+      3204.0,
+      3320.0,
+      3348.0,
+      3194.0,
+      3119.0,
+      3038.0,
+      2831.0,
+      2361.0,
+      1992.0,
+      2914.0,
+      2911.0,
+      2904.0,
+      2023.0,
+      2009.0,
+      1855.0
     ],
     "demanda_real_mw": [
-      1983.0,
-      1875.0,
-      1852.0,
-      1860.0,
-      1860.0,
-      1933.0,
-      2097.0,
-      2430.0,
-      2788.0,
-      3136.0,
-      3336.0,
-      3447.0,
-      3423.0,
-      3024.0,
-      2904.0,
-      2437.0,
-      2229.0,
-      1979.0,
-      2108.0,
-      2016.0,
-      1993.0,
-      1760.0,
-      1764.0,
-      1785.0
+      1687.0,
+      1755.0,
+      1746.0,
+      1712.0,
+      1720.0,
+      1787.0,
+      2082.0,
+      2670.0,
+      3081.0,
+      3154.0,
+      3270.0,
+      3298.0,
+      3144.0,
+      3069.0,
+      2988.0,
+      2781.0,
+      2311.0,
+      1942.0,
+      2164.0,
+      2161.0,
+      2154.0,
+      1973.0,
+      1959.0,
+      1805.0
     ]
   },
   "comercializadores": [
@@ -89,61 +89,61 @@
       "agente": "ENEL Colombia",
       "region": "Centro (Bogotá / Cundinamarca)",
       "gwh": 40.5,
-      "pct": 42.5
+      "pct": 42.4
     },
     {
       "agente": "Celsia",
       "region": "Occidente (Valle del Cauca)",
-      "gwh": 11.6,
-      "pct": 12.2
-    },
-    {
-      "agente": "EPM",
-      "region": "Occidente (Antioquia)",
-      "gwh": 10.4,
-      "pct": 10.9
+      "gwh": 13.3,
+      "pct": 13.9
     },
     {
       "agente": "Air-e",
       "region": "Caribe (Caribe Norte)",
-      "gwh": 8.6,
-      "pct": 9.0
+      "gwh": 9.299999999999999,
+      "pct": 9.7
+    },
+    {
+      "agente": "EPM",
+      "region": "Occidente (Antioquia)",
+      "gwh": 8.2,
+      "pct": 8.6
     },
     {
       "agente": "Afinia",
       "region": "Caribe (Caribe Sur)",
-      "gwh": 4.9,
-      "pct": 5.1
-    },
-    {
-      "agente": "CHEC (Eje Cafetero)",
-      "region": "Occidente (Eje Cafetero)",
-      "gwh": 4.1,
-      "pct": 4.3
+      "gwh": 6.2,
+      "pct": 6.5
     },
     {
       "agente": "EBSA (Boyacá)",
       "region": "Centro (Boyacá)",
-      "gwh": 3.9,
-      "pct": 4.1
+      "gwh": 3.8,
+      "pct": 4.0
     },
     {
       "agente": "Celsia Tolima",
       "region": "Centro (Tolima)",
-      "gwh": 3.5,
-      "pct": 3.7
+      "gwh": 3.4,
+      "pct": 3.6
     },
     {
       "agente": "Enerca (Casanare)",
       "region": "Oriente (Casanare)",
       "gwh": 3.0,
-      "pct": 3.2
+      "pct": 3.1
+    },
+    {
+      "agente": "CHEC (Eje Cafetero)",
+      "region": "Occidente (Eje Cafetero)",
+      "gwh": 2.9,
+      "pct": 3.0
     },
     {
       "agente": "ESSA (Santander)",
       "region": "Centro (Santanderes)",
-      "gwh": 1.6,
-      "pct": 1.7
+      "gwh": 2.2,
+      "pct": 2.3
     }
   ],
   "embalses_caudales": [
@@ -152,16 +152,16 @@
       "rio": "Río Nare",
       "departamento": "Antioquia",
       "municipio": "Guatapé / El Peñol",
-      "volumen_pct": 82.7,
-      "caudal_m3s": 8.2
+      "volumen_pct": 82.3,
+      "caudal_m3s": 8.5
     },
     {
       "embalse": "Guavio",
       "rio": "Río Guavio",
       "departamento": "Cundinamarca",
       "municipio": "Ubalá / Gachalá",
-      "volumen_pct": 86.6,
-      "caudal_m3s": 39.0
+      "volumen_pct": 86.9,
+      "caudal_m3s": 30.7
     },
     {
       "embalse": "Chivor (Esmeralda)",
@@ -177,7 +177,7 @@
       "departamento": "Valle del Cauca",
       "municipio": "Calima El Darién",
       "volumen_pct": 32.1,
-      "caudal_m3s": 8.5
+      "caudal_m3s": 6.2
     },
     {
       "embalse": "Betania",
@@ -198,24 +198,36 @@
   ],
   "historico_diario": [
     {
-      "fecha": "2026-10-18",
+      "fecha": "2026-10-19",
       "volumen_sin_pct": 51.4,
-      "demanda_total_gwh": 133.5,
+      "demanda_total_gwh": 142.1,
       "reduccion_mw": 750.0,
       "ahorro_acumulado_gwh": 18.5,
-      "enel_gwh": 37.9,
+      "enel_gwh": 40.4,
+      "celsia_gwh": 11.5,
+      "epm_gwh": 10.4,
+      "aire_gwh": 8.5,
+      "afinia_gwh": 4.8
+    },
+    {
+      "fecha": "2026-10-18",
+      "volumen_sin_pct": 51.5,
+      "demanda_total_gwh": 133.9,
+      "reduccion_mw": 750.0,
+      "ahorro_acumulado_gwh": 18.1,
+      "enel_gwh": 38.0,
       "celsia_gwh": 10.8,
-      "epm_gwh": 9.7,
+      "epm_gwh": 9.8,
       "aire_gwh": 8.0,
-      "afinia_gwh": 4.5
+      "afinia_gwh": 4.6
     },
     {
       "fecha": "2026-10-17",
-      "volumen_sin_pct": 51.5,
-      "demanda_total_gwh": 138.2,
+      "volumen_sin_pct": 51.7,
+      "demanda_total_gwh": 138.6,
       "reduccion_mw": 750.0,
-      "ahorro_acumulado_gwh": 18.1,
-      "enel_gwh": 39.2,
+      "ahorro_acumulado_gwh": 17.7,
+      "enel_gwh": 39.4,
       "celsia_gwh": 11.2,
       "epm_gwh": 10.1,
       "aire_gwh": 8.3,
@@ -223,30 +235,18 @@
     },
     {
       "fecha": "2026-10-16",
-      "volumen_sin_pct": 51.7,
-      "demanda_total_gwh": 142.9,
+      "volumen_sin_pct": 51.9,
+      "demanda_total_gwh": 142.1,
       "reduccion_mw": 750.0,
-      "ahorro_acumulado_gwh": 17.7,
-      "enel_gwh": 40.6,
-      "celsia_gwh": 11.6,
+      "ahorro_acumulado_gwh": 17.3,
+      "enel_gwh": 40.4,
+      "celsia_gwh": 11.5,
       "epm_gwh": 10.4,
-      "aire_gwh": 8.6,
-      "afinia_gwh": 4.9
+      "aire_gwh": 8.5,
+      "afinia_gwh": 4.8
     },
     {
       "fecha": "2026-10-15",
-      "volumen_sin_pct": 51.9,
-      "demanda_total_gwh": 144.9,
-      "reduccion_mw": 750.0,
-      "ahorro_acumulado_gwh": 17.3,
-      "enel_gwh": 41.2,
-      "celsia_gwh": 11.7,
-      "epm_gwh": 10.6,
-      "aire_gwh": 8.7,
-      "afinia_gwh": 4.9
-    },
-    {
-      "fecha": "2026-10-14",
       "volumen_sin_pct": 52.0,
       "demanda_total_gwh": 145.3,
       "reduccion_mw": 750.0,
@@ -258,7 +258,7 @@
       "afinia_gwh": 4.9
     },
     {
-      "fecha": "2026-10-13",
+      "fecha": "2026-10-14",
       "volumen_sin_pct": 52.1,
       "demanda_total_gwh": 145.8,
       "reduccion_mw": 750.0,
@@ -270,12 +270,24 @@
       "afinia_gwh": 5.0
     },
     {
-      "fecha": "2026-10-12",
+      "fecha": "2026-10-13",
       "volumen_sin_pct": 52.3,
-      "demanda_total_gwh": 142.1,
+      "demanda_total_gwh": 144.9,
       "reduccion_mw": 750.0,
       "ahorro_acumulado_gwh": 16.1,
-      "enel_gwh": 40.4,
+      "enel_gwh": 41.2,
+      "celsia_gwh": 11.7,
+      "epm_gwh": 10.6,
+      "aire_gwh": 8.7,
+      "afinia_gwh": 4.9
+    },
+    {
+      "fecha": "2026-10-12",
+      "volumen_sin_pct": 52.4,
+      "demanda_total_gwh": 142.5,
+      "reduccion_mw": 750.0,
+      "ahorro_acumulado_gwh": 15.7,
+      "enel_gwh": 40.5,
       "celsia_gwh": 11.5,
       "epm_gwh": 10.4,
       "aire_gwh": 8.5,
@@ -283,23 +295,23 @@
     },
     {
       "fecha": "2026-10-11",
-      "volumen_sin_pct": 52.4,
-      "demanda_total_gwh": 133.9,
+      "volumen_sin_pct": 52.6,
+      "demanda_total_gwh": 134.3,
       "reduccion_mw": 750.0,
-      "ahorro_acumulado_gwh": 15.7,
-      "enel_gwh": 38.0,
-      "celsia_gwh": 10.8,
+      "ahorro_acumulado_gwh": 15.3,
+      "enel_gwh": 38.1,
+      "celsia_gwh": 10.9,
       "epm_gwh": 9.8,
-      "aire_gwh": 8.0,
+      "aire_gwh": 8.1,
       "afinia_gwh": 4.6
     },
     {
       "fecha": "2026-10-10",
-      "volumen_sin_pct": 52.6,
-      "demanda_total_gwh": 138.6,
+      "volumen_sin_pct": 52.8,
+      "demanda_total_gwh": 137.8,
       "reduccion_mw": 750.0,
-      "ahorro_acumulado_gwh": 15.3,
-      "enel_gwh": 39.4,
+      "ahorro_acumulado_gwh": 14.9,
+      "enel_gwh": 39.1,
       "celsia_gwh": 11.2,
       "epm_gwh": 10.1,
       "aire_gwh": 8.3,
@@ -307,11 +319,11 @@
     },
     {
       "fecha": "2026-10-09",
-      "volumen_sin_pct": 52.8,
-      "demanda_total_gwh": 142.1,
+      "volumen_sin_pct": 52.9,
+      "demanda_total_gwh": 142.5,
       "reduccion_mw": 750.0,
-      "ahorro_acumulado_gwh": 14.9,
-      "enel_gwh": 40.4,
+      "ahorro_acumulado_gwh": 14.5,
+      "enel_gwh": 40.5,
       "celsia_gwh": 11.5,
       "epm_gwh": 10.4,
       "aire_gwh": 8.5,
@@ -319,18 +331,6 @@
     },
     {
       "fecha": "2026-10-08",
-      "volumen_sin_pct": 52.9,
-      "demanda_total_gwh": 145.3,
-      "reduccion_mw": 750.0,
-      "ahorro_acumulado_gwh": 14.5,
-      "enel_gwh": 41.3,
-      "celsia_gwh": 11.8,
-      "epm_gwh": 10.6,
-      "aire_gwh": 8.7,
-      "afinia_gwh": 4.9
-    },
-    {
-      "fecha": "2026-10-07",
       "volumen_sin_pct": 53.0,
       "demanda_total_gwh": 145.8,
       "reduccion_mw": 750.0,
@@ -342,7 +342,7 @@
       "afinia_gwh": 5.0
     },
     {
-      "fecha": "2026-10-06",
+      "fecha": "2026-10-07",
       "volumen_sin_pct": 53.2,
       "demanda_total_gwh": 144.9,
       "reduccion_mw": 750.0,
@@ -354,16 +354,16 @@
       "afinia_gwh": 4.9
     },
     {
-      "fecha": "2026-10-05",
+      "fecha": "2026-10-06",
       "volumen_sin_pct": 53.4,
-      "demanda_total_gwh": 142.5,
+      "demanda_total_gwh": 145.3,
       "reduccion_mw": 750.0,
       "ahorro_acumulado_gwh": 13.3,
-      "enel_gwh": 40.5,
-      "celsia_gwh": 11.5,
-      "epm_gwh": 10.4,
-      "aire_gwh": 8.5,
-      "afinia_gwh": 4.8
+      "enel_gwh": 41.3,
+      "celsia_gwh": 11.8,
+      "epm_gwh": 10.6,
+      "aire_gwh": 8.7,
+      "afinia_gwh": 4.9
     }
   ]
 }
